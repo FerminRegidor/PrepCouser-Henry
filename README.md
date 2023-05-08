@@ -1,2 +1,1 @@
-# PrepCouser-Henry
-Repositorio de prueba para el modulo2 del PepCourse de Henry
+Este proyecto es solamente una prueba del prep course Henry modulo 2
